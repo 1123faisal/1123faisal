@@ -152,17 +152,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1123faisal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=00d4ff&icon_color=00d4ff&text_color=eef0f8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1123faisal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f14&title_color=00d4ff&text_color=eef0f8)
-
-</div>
-
----
 
 <div align="center">
 
