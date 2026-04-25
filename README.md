@@ -79,41 +79,66 @@
 
 ## 🚀 Featured Projects
 
-### 📊 Enterprise Analytics Dashboard *(Finance SaaS)*
-> Large-scale Angular + NgRx dashboard serving **50,000+ daily users**. Complex state management, real-time data feeds, and granular role-based permission layers.
+### 🏥 ForSite — ForTec Medical
+> Large-scale Angular 21 SPA for a US surgical technology provider mobilising 1,350+ devices across 12 surgical specialties. Dual portals for internal ops (scheduling, billing, inventory, HR, sales) and customer-facing partner scheduling. Architected 40+ NgRx feature slices, Signal-first standalone components, SignalR real-time notifications, domain-driven API layer, dark mode, and i18n — all under strict TypeScript 5 with zero NgModules.
 
-`Angular` `NgRx` `TypeScript` `RxJS` `D3.js` · 📈 *50K+ daily active users · 35% faster build*
+`Angular 21` `NgRx` `Signals` `SignalR` `TypeScript 5` `NX` `Storybook` `Cypress` · 🏥 *1,350+ devices · 12 specialties · 35+ years*
 
-[→ View Source](https://github.com/1123faisal/enterprise-dashboard)
-
----
-
-### 🧩 Angular Component Design System *(Internal Platform)*
-> Comprehensive, token-based Angular component library with Storybook, adopted by **3 product teams**. WCAG-AA accessible with full Cypress coverage.
-
-`Angular` `Storybook` `NX` `SCSS` `Cypress` · ⚡ *Adopted by 3 teams · 50% fewer QA UI bugs*
-
-[→ View Source](https://github.com/1123faisal/angular-design-system)
+[→ Live Portal](https://forsite.fortecmedical.com/PortalApp/#/login)
 
 ---
 
-### 🛒 Angular PWA Storefront *(E-Commerce)*
-> Progressive Web App with offline-first architecture, lazy-loaded feature modules, and service workers for zero-network cart interaction. **Lighthouse 95+**.
+### 🚗 CaiDrive — Luxury Car Rental Platform
+> Premium Dubai-based platform for renting 500+ luxury & hypercars (Ferrari, Lamborghini, Rolls-Royce, Bugatti, Pagani). Built ⌘K global vehicle search, brand filtering, per-vehicle spec & review pages, OAuth SSO, booking management, secure payments, admin dashboard, lifestyle membership module, and chauffeur rides. 4.9/5 rating by thousands of customers.
 
-`Angular PWA` `Service Workers` `Lazy Loading` `IndexedDB` · 🚀 *45% faster page load · Lighthouse 95+*
+`Angular` `TypeScript` `OAuth 2.0` `REST API` `Admin Dashboard` · 🚗 *500+ vehicles · 50+ brands · 4.9/5 rating*
 
-[→ View Source](https://github.com/1123faisal/angular-pwa-storefront)
+[→ Live Site](https://caidrive.com/)
+
+---
+
+### 🩺 Health Safe Today
+> Mobile-first digital health wallet for Indian patients to store and access all health records on their phones. Developed and maintained RESTful APIs and database layer, integrating with providers, labs, and pharmacies into a single interoperable ecosystem. Improved care coordination and digitised health records at scale across India.
+
+`Node.js` `Express` `MongoDB` `REST API` `Mobile-first` · 🩺 *Interoperable health platform · India-wide*
+
+[→ Live Site](https://www.healthsafetoday.com/)
 
 ---
 
-### 📡 Real-time Analytics UI *(SaaS Platform)*
-> WebSocket-driven live data visualization with D3.js charts embedded in Angular. Handles **1,000+ events/sec** using RxJS pipelines for throttling and buffering.
+### 🌍 Kamrad Finder — Travel Companion Matching
+> Travel companion matching platform solving last-minute bail-outs: algorithmically matches subscribers with committed travelers heading to the same destination. Built 3-step matching flow, curated global destination catalogue, and user privacy controls.
 
-`Angular` `D3.js` `WebSockets` `RxJS` `NgRx` · ⚡ *1,000+ events/sec · <100ms render latency*
+`Angular` `TypeScript` `Node.js` `Travel Matching` · 🌍 *Global reach · Subscription plans*
 
-[→ View Source](https://github.com/1123faisal/realtime-analytics-ui)
+[→ Live Site](https://www.kamradfinder.com/)
 
 ---
+
+### 💸 Local Deals Fundraising
+> Digital fundraising platform replacing door-to-door sales for schools, sports teams, and clubs. Built live campaign tracking dashboard, branded seller pages, coupon redemption, merchant portal, and yearly renewal engine. App features 90+ local merchant offers.
+
+`Angular` `TypeScript` `Mobile App` `Fundraising` · 💸 *90+ local offers · Real-time tracking*
+
+[→ Live Site](https://localdealsfundraising.com/)
+
+---
+
+### 🏢 MARBLELIFE® Franchise Portal
+> Sole frontend engineer for an internal operations SPA serving the MARBLELIFE® nationwide franchise network. Built on Angular 18 (standalone, Signals-only, zero NgRx/BehaviorSubject) with Nx 19 monorepo. Centralises photo uploads, CRM, payroll, analytics, and a publishable drag-and-drop library with Storybook coverage; deployed via Docker/nginx.
+
+`Angular 18` `NX 19` `Signals` `Storybook` `Docker` · 🏢 *US-wide franchise · 7 role levels · 18 shared components*
+
+[→ Live Site](https://marblelifeproducts.com)
+
+---
+
+### 🎓 Nikshala — Study Abroad Platform
+> One-stop study-abroad guidance platform for Indian students targeting Germany, Australia & beyond. Step-by-step admission & visa roadmap, personalised university shortlisting, SOP guides, expert courses, and progress tracking. Integrated Guruji — an AI-powered chatbot for instant guidance; also published as an Android app.
+
+`Angular` `TypeScript` `AI Chatbot` `Mobile App` `EdTech` · 🎓 *Germany/Australia focus · Android app*
+
+[→ Play Store](https://play.google.com/store/apps/details?id=branded.m50f2798b62f74124bf6ebe4f53bd3cb6.nikshala20)
 
 ## 💼 Work Experience
 
